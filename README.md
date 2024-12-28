@@ -1,16 +1,22 @@
-## Hi there 👋
+shauryagupta045/README.md
+👋 Hi, I'm Shaurya Gupta 
+🎓 B.Tech in CSE | 3rd Year | Current CGPA: 8.2
 
-<!--
-**shauryagupta045/shauryagupta045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 Full-Stack Developer: Skilled in React.js, Node.js, SQL, and building dynamic web applications.
+🔍 Problem Solver: Proficient in Data Structures and Algorithms (DSA) with C++.
+🎨 Graphic Designer: Freelancing for rbdigitalcompany, creating engaging Instagram and LinkedIn posts.
+📱 Project Enthusiast: Developed the Organ Donation System and other interactive JavaScript projects like a calculator, weather app, and games.
+🌐 E-Commerce Expertise: Built React-based e-commerce platforms with payment and cart functionality.
 
-Here are some ideas to get you started:
+🌟 Highlights
+DSA Explorer: Solved numerous problems on platforms like LeetCode and Codeforces.
+Academic Projects: Building real-world solutions, including an Organ Donation System connecting donors and patients.
+Tech Stack Expansion: Continuously learning new technologies like Node.js and SQL to enhance development skills.
+Campus Engagement: Actively participating in coding contests and tech events to sharpen problem-solving and teamwork skills.
+🌐 Find Me Online
+💼 LinkedIn
+🌍 Portfolio
+✉ [guptashaurya0728@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let me know if you need further tweaks! 🚀
