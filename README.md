@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-💻 **Full-Stack Developer**: Skilled in React.js, Node.js, SQL, and building dynamic web applications.  
+💻 **Full-Stack Developer**: Skilled in React.js,Html5 , Css , JavaScript  and building dynamic web applications.  
 🔍 **Problem Solver**: Proficient in Data Structures and Algorithms (DSA) with C++.  
 🎨 **Graphic Designer**: Freelancing for rbdigitalcompany, creating engaging Instagram and LinkedIn posts.  
 📱 **Project Enthusiast**: Developed the **Organ Donation System** and other interactive JavaScript projects like a calculator, weather app, and games.  
@@ -21,8 +21,7 @@
 ---
 
 ## 🌐 Find Me Online  
-- 💼 [LinkedIn](#)  
-- 🌍 [Portfolio](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaurya-guptaa/)   
 - ✉ [guptashaurya0728@gmail.com](mailto:guptashaurya0728@gmail.com)  
 
 ---
