@@ -16,3 +16,13 @@
 [![](https://visitcount.itsvg.in/api?id=shauryagupta045&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Visitor Count Section -->
+<h1 align="center"> 👀 Visitor Count </h1>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/%7Bpreetibansal08%7D/count.svg" alt="visitor badge"/>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
+</p>
