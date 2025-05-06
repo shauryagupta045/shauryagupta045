@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Shaurya Gupta:
-🎓 B.Tech in CSE | 3rd Year | Current CGPA: 8.2<br><br>🚀 About Me<br>💻 Full-Stack Developer: Skilled in React.js, Html5 , Css , JavaScript and building dynamic web applications.<br>🔍 Problem Solver: Proficient in Data Structures and Algorithms (DSA) with C++.<br>🎨 Graphic Designer: Freelancing for rbdigitalcompany, creating engaging Instagram and LinkedIn posts.<br>📱 Project Enthusiast: Developed the Organ Donation System and other interactive JavaScript projects like a calculator, weather app, and games.<br>🌐 E-Commerce Expertise: Built React-based e-commerce platforms with payment and cart functionality.
+🎓 B.Tech in CSE | 3rd Year | Current CGPA: 8.2<br><br>🚀 About Me<br>💻 Full-Stack Developer: Skilled in React.js, Html5 , Css , JavaScript and building dynamic web applications.<br>🔍 Problem Solver: Proficient in Data Structures and Algorithms (DSA) with C++.<br>🎨 Graphic Designer: Freelancing for rbdigitalcompany, creating engaging Instagram and LinkedIn posts.
 
 
 ## 🌐 Socials:
