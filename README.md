@@ -1,6 +1,5 @@
 # 💫 Hi, I'm Shaurya Gupta:
-🎓 B.Tech in CSE | Final Year | Current CGPA: 8.3<br><br>🚀 About Me<br>💻 Full-Stack Developer: Skilled in React.js,Node.js , Express , MongoDB , Html5 , Css , Tailwind  JavaScript and building dynamic web applications.<br>🔍 Problem Solver: Proficient in Data Structures and Algorithms (DSA) with C++.<br>🎨 Graphic Designer: Freelancing for rbdigitalcompany, creating engaging Instagram and LinkedIn posts.
-
+🎓 B.Tech in CSE | Final Year | Current CGPA: 8.3<br><br>🚀 About Me<br>💻 Full-Stack Developer: Skilled in React.js,Node.js , Express , MongoDB , Html5 , Css , Tailwind , JavaScript and building dynamic web applications.<br>🔍 Problem Solver: Proficient in Data Structures and Algorithms (DSA) with C++.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shaurya-guptaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptashaurya0728@gmail.com) 
@@ -31,41 +30,9 @@
 </div>
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
-<!-- Top Languages Summary -->
-<h1 align="center"> 🔝 Most Used Languages </h1>
-<div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryagupta045&show_icons=true&theme=merko&hide_border=true&card_width=500" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- GitHub Activity Graph -->
-
-![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shauryagupta045&theme=react-dark&hide_border=true)
-
-<!-- GitHub Trophies -->
-<h1 align="center"> 🏆 GitHub Trophies </h1>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=shauryagupta045&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
 
 <!-- GitHub Activity Graph -->
 <h1 align="center"> 📊 Contribution Activity </h1>
 <div align="center">
     <img src="https://ssr-contributions-svg.vercel.app/_/shauryagupta045?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true" />
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Visitor Count Section -->
-<h1 align="center"> 👀 Visitor Count </h1>
-<p align="center">
-    <img src="https://profile-counter.glitch.me/%7Bpreetibansal08%7D/count.svg" alt="visitor badge"/>
-</p>
-
-<!-- Footer Wave -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
-</p>
